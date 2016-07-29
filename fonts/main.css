@@ -30,11 +30,18 @@ li {
   line-height: 98%;
   text-decoration: none;
   }
+h1 {
+  color: #CECECE;
+  padding: 20px 10px;
+  font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+  font-size: 45px;
+  font-stretch: expanded;
+  font-style: italic;
+  font-weight: 100;
+  }
 #main_content p{
   padding: 30px 10px;
-  font-family: 'aaarghnormal';
-  font-size: 25px;
-  line-height: 45px;
+  font: 25px/45px'aaarghnormal';
   color: #888;
   }
 /* -------------------  FONTS ----------------- */
